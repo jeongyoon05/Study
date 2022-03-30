@@ -10,6 +10,7 @@ class Cat extends Animal {
         System.out.println("냐옹냐옹");
     }
 }
+
 class Dog extends Animal {
 
     @Override
