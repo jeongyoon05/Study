@@ -28,14 +28,6 @@ OCP는 개방-폐쇄 원칙이다.
 - 인터페이스를 구현한 새로운 클래스를 이용해 개발한다.
 - 역할(인터페이스)과 구현(구현체)의 분리가 중요하다.
 
-```java
-public class PersonService {
-    // private PersonRepository personRepository = new MaleRepository();
-    ⬇
-    private PersonRepository personRepository = new FaleMaleRepository();
-}
-```
-
 - 구현 객체를 변경하려면 클라이언트 코드를 변경해야 한다.
   (호출되는 코드를 서버 코드라고 하면, 이 코드를 호출하는 모든 코드(객체, 클래스)가 클라이언트 코드)
 - 다형성을 사용했지만 OCP 원칙을 지킬 수 없다.
