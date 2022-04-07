@@ -6,7 +6,7 @@
 - [객체지향](https://github.com/jeongyoon05/Study/blob/main/SOLID.md)
 
 #### Java
-
+- [자바 기본](https://github.com/jeongyoon05/Study/blob/main/Java%20-%20Basic.md)
 - [클래스](https://github.com/jeongyoon05/Study/tree/main/Java%20Class)
 
 #### Spring
