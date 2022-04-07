@@ -1,1 +1,14 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    password: ${MYSQL_PASSWORD:rhqmffls13!}
+    url: ${MYSQL_URL:jdbc:mysql://localhost:3306/querydsl?serverTimezone=UTC&characterEncoding=UTF-8}
+    username: ${MYSQL_USERNAME:root}
+  jackson:
+    property-naming-strategy: SNAKE_CASE
+  jpa:
+    generate-ddl: true
+    show-sql: true
+    hibernate:
+      ddl-auto: create
 
