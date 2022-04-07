@@ -70,3 +70,12 @@ public class Soldier {
 위 코드의 경우에는 Gun 객체(Bean)를 스프링 컨테이너에 등록하고, 스프링 컨테이너에서 Soldier의 gun 멤버 변수에 Bean을 주입할수 있게 해준다. 
 
 ![img](https://media.vlpt.us/images/damiano1027/post/e5624a20-6a5d-4c31-8042-ab5d06b9622b/image.png)
+
+### DI(의존성 주입)를 해야 하는 이유
+
+DI로 프로그램을 설계 했을 때, 다음과 같은 이점을 얻을 수 있다.
+
+- Unit Test가 용이해진다.
+- 코드의 재활용성을 높여준다.
+- 객체 간의 의존성을 줄이거나 없엘 수 있다.
+- 객체 간의 결합도를 낮추면서 유연한 코드를 작성할 수 있다.
