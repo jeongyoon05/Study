@@ -3,8 +3,10 @@
 
 ## Development
 
-- [객체지향](https://github.com/jeongyoon05/Study/blob/main/SOLID.md)
-
+#### 객체지향
+- [SOLID](https://github.com/jeongyoon05/Study/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5/SOLID.md)
+- [다형성](https://github.com/jeongyoon05/Study/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5/%EB%8B%A4%ED%98%95%EC%84%B1.md)
+ 
 #### Java
 - [자바 기본](https://github.com/jeongyoon05/Study/blob/main/Java%20-%20Basic.md)
 - [클래스](https://github.com/jeongyoon05/Study/tree/main/Java%20Class)
