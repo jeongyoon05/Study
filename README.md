@@ -10,6 +10,7 @@
 #### Java
 - [자바 기본](https://github.com/jeongyoon05/Study/blob/main/Java/Java%20-%20Basic.md)
 - [클래스](https://github.com/jeongyoon05/Study/tree/main/Java/Java%20Class)
+- [생성자](https://github.com/jeongyoon05/Study/blob/main/Java/%EC%83%9D%EC%84%B1%EC%9E%90.md)
 
 #### Spring
 - [IoC (제어의 역전)](https://github.com/jeongyoon05/Study/blob/main/Spring/%EC%A0%9C%EC%96%B4%EC%9D%98%20%EC%97%AD%EC%A0%84%20(Inversion%20of%20Control).md)
