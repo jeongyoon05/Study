@@ -67,7 +67,7 @@ Optional<Member> maybeMember = Optional.of(aMember);
 
 null인지 아닌지 확신할 수 없는 객체를 담고 있는 Optional 객체를 생성한다.
 
-`Optional.empty()`와 `Optional.ofNullable(value)`를 합쳐놓은 메서드라고 생각하면 된다.
+`Optional.empty()`와 `Optional.of`를 합쳐놓은 메서드라고 생각하면 된다.
 
 null이 넘어올 경우, NPE를 던지지 않고 `Optional.empty()`와 동일하게 비어있는 Optional객체를 얻어온다.
 
