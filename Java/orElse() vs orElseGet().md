@@ -74,4 +74,6 @@ orElse는 객체를 그대로 return 하는데 orElseGet은 Supplier 메서드�
 
 ### **결론**
 
-null이 아닐경우에도 메서드가 호출되는 orElse에는 "헬로"가 출력된후 String 값들이 Object 객체에 담겼고 null일 경우에 메서드를 호출해서 리턴값이 객체에 담겼다.
+null이 아닐경우에도 메서드가 호출되는 orElse에는 "헬로"가 출력된후 "김범진"이 Object 객체에 담겼고 orElseGet에는 "바보"가 Object 객체에 담겼다.
+
+ null일 경우에 메서드를 호출해서 리턴값이 객체에 담겼다.
