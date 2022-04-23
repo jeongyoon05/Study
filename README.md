@@ -1,6 +1,6 @@
 # Chapter
 - [Development](#Development)
-- [Data Structure](##Data Structure)
+- [Data Structure](#Data-Structure)
 
 ## Development
 
@@ -25,7 +25,8 @@
 #### Database
 
 ## Data Structure
-- [단순구조]
-- [선형구조]
-- [비선형구조]
-- [파일구조]
+
+#### 단순구조
+#### 선형구조
+#### 비선형구조
+#### 파일구조
