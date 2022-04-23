@@ -25,6 +25,7 @@
 #### Database
 
 ## Data Structure
+
 - [단순구조]
 - [선형구조]
 - [비선형구조]
