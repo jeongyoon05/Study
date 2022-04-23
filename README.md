@@ -1,6 +1,6 @@
 # Chapter
 - [Development](#Development)
-- [Data Structure](#Data Structure)
+- [DataStructure](#Data Structure)
 
 ## Development
 
