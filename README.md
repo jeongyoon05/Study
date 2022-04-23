@@ -1,5 +1,6 @@
 # Chapter
 - [Development](#Development)
+- [Data Structure](#Data Structure)
 
 ## Development
 
@@ -22,4 +23,9 @@
 - [Mock](https://github.com/jeongyoon05/Study/tree/main/Spring/Mock)
 
 #### Database
-#### Data Structure
+
+## Data Structure
+- [단순구조]
+- [선형구조]
+- [비선형구조]
+- [파일구조]
