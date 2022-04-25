@@ -27,6 +27,10 @@
 ## Data Structure
 
 #### 단순구조
+- [정수](https://github.com/jeongyoon05/Study/tree/main/data-structure/src/simple/integer)
+- [실수](https://github.com/jeongyoon05/Study/tree/main/data-structure/src/simple/realNumber)
+- [문자](https://github.com/jeongyoon05/Study/tree/main/data-structure/src/simple/character)
+- [문자열](https://github.com/jeongyoon05/Study/tree/main/data-structure/src/simple/string)
 #### 선형구조
 - [스택](https://github.com/jeongyoon05/Study/tree/main/data-structure/src/linear/stack)
 #### 비선형구조
