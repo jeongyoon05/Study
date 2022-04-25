@@ -14,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -41,13 +42,26 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.IntegerEx">
-    <configuration name="CharacterEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simple.CharacterEx" />
+  <component name="RunManager" selected="Application.StackEx">
+    <configuration name="ArrayQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linear.queue.ArrayQueue" />
       <module name="data-structure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="simple.*" />
+          <option name="PATTERN" value="linear.queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linear.stack.impl.ArrayStack" />
+      <module name="data-structure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linear.stack.impl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,11 +70,11 @@
       </method>
     </configuration>
     <configuration name="IntegerEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simple.IntegerEx" />
+      <option name="MAIN_CLASS_NAME" value="simple.integer.IntegerEx" />
       <module name="data-structure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="simple.*" />
+          <option name="PATTERN" value="simple.integer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,11 +83,11 @@
       </method>
     </configuration>
     <configuration name="QueueEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linear.QueueEx" />
+      <option name="MAIN_CLASS_NAME" value="linear.queue.QueueEx" />
       <module name="data-structure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linear.*" />
+          <option name="PATTERN" value="linear.queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,25 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RealNumberEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simple.RealNumberEx" />
+    <configuration name="StackEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linear.stack.StackEx" />
       <module name="data-structure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="simple.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simple.StringEx" />
-      <module name="data-structure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="simple.*" />
+          <option name="PATTERN" value="linear.stack.StackEx" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IntegerEx" />
-        <item itemvalue="Application.StringEx" />
-        <item itemvalue="Application.CharacterEx" />
-        <item itemvalue="Application.RealNumberEx" />
+        <item itemvalue="Application.StackEx" />
+        <item itemvalue="Application.ArrayStack" />
+        <item itemvalue="Application.ArrayQueue" />
         <item itemvalue="Application.QueueEx" />
+        <item itemvalue="Application.IntegerEx" />
       </list>
     </recent_temporary>
   </component>
@@ -125,7 +126,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650734926695</updated>
-      <workItem from="1650734928001" duration="3301000" />
+      <workItem from="1650734928001" duration="10456000" />
     </task>
     <servers />
   </component>
