@@ -33,5 +33,6 @@
 - [문자열](https://github.com/jeongyoon05/Study/tree/main/data-structure/src/simple/string)
 #### 선형구조
 - [스택](https://github.com/jeongyoon05/Study/tree/main/data-structure/src/linear/stack)
+- [큐](https://github.com/jeongyoon05/Study/tree/main/data-structure/src/linear/queue)
 #### 비선형구조
 #### 파일구조
