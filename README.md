@@ -17,6 +17,7 @@
 
 #### Kotlin
 - [스코프 함수](https://github.com/jeongyoon05/Study/blob/main/Kotlin/%EC%8A%A4%EC%BD%94%ED%94%84%20%ED%95%A8%EC%88%98.md)
+- [Object](https://github.com/jeongyoon05/Study/blob/main/Kotlin/Object.md)
 
 #### Spring
 - [IoC (제어의 역전)](https://github.com/jeongyoon05/Study/blob/main/Spring/%EC%A0%9C%EC%96%B4%EC%9D%98%20%EC%97%AD%EC%A0%84%20(Inversion%20of%20Control).md)
