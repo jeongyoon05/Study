@@ -20,13 +20,19 @@
 - [DI (의존성 주입)](https://github.com/jeongyoon05/Study/blob/main/Spring/%EC%9D%98%EC%A1%B4%EC%84%B1%20%EC%A3%BC%EC%9E%85%20(Dependency%20Injection).md)
 - [querydsl](https://github.com/jeongyoon05/Study/tree/main/Spring/querydsl)
 - [비동기처리](https://github.com/jeongyoon05/Study/tree/main/Spring/%EB%B9%84%EB%8F%99%EA%B8%B0%EC%B2%98%EB%A6%AC)
-- [Mock](https://github.com/jeongyoon05/Study/tree/main/Spring/Mock)
 
 #### Database
+- [sql 문법 정리](https://github.com/jeongyoon05/Study/blob/main/Database/SQL%20%EB%AC%B8%EB%B2%95%20%EC%A0%95%EB%A6%AC.md)
 
 ## Data Structure
 
 #### 단순구조
+- [정수](https://github.com/jeongyoon05/Study/tree/main/data-structure/src/simple/integer)
+- [실수](https://github.com/jeongyoon05/Study/tree/main/data-structure/src/simple/realNumber)
+- [문자](https://github.com/jeongyoon05/Study/tree/main/data-structure/src/simple/character)
+- [문자열](https://github.com/jeongyoon05/Study/tree/main/data-structure/src/simple/string)
 #### 선형구조
+- [스택](https://github.com/jeongyoon05/Study/tree/main/data-structure/src/linear/stack)
+- [큐](https://github.com/jeongyoon05/Study/tree/main/data-structure/src/linear/queue)
 #### 비선형구조
 #### 파일구조
