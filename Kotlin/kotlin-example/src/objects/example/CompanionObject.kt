@@ -1,4 +1,4 @@
-package objects
+package objects.example
 
 fun main() {
     var a = Food()
