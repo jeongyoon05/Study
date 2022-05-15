@@ -31,7 +31,7 @@
 
 > #### 소켓통신의 흐름
 
-![image-20220515165151073](C:\Users\leeje\AppData\Roaming\Typora\typora-user-images\image-20220515165151073.png)
+![img](https://t1.daumcdn.net/cfile/tistory/995C23465C7DD7E30B)
 
 ##### 서버 (Server)
 
