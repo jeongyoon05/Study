@@ -1,5 +1,13 @@
 # MSA
 
+#### 모놀리지 아키텍쳐
+
+![image-20220528225337054](C:\Users\leeje\AppData\Roaming\Typora\typora-user-images\image-20220528225337054.png)
+
+#### 마이크로서비스 아키텍처
+
+![image-20220528225801778](C:\Users\leeje\AppData\Roaming\Typora\typora-user-images\image-20220528225801778.png)
+
 MSA란 마이크로 서비스 아키텍처의 약자로 단일 프로그램을 각 컴포넌트 별로 나누어서 작은 서비스의 조합으로 구축하는 방법이다.
 
 ![leh_4](http://clipsoft.co.kr/wp/wp-content/uploads/2020/06/leh_4.png)
