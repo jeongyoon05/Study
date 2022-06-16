@@ -1,6 +1,6 @@
 # Dispatcher-Servlet
 
-#### Dispatcher-Servlet(디스패처 서블릿) 이란?
+### Dispatcher-Servlet이란?
 
 디스패처 서블릿의 dispatch는 "보내다"라는 뜻을 가지고 있다.
 
@@ -16,7 +16,7 @@
 
 ![img](https://velog.velcdn.com/images%2Fseculoper235%2Fpost%2Fc404e755-454c-4b69-937b-d04ff3c0c69d%2F2%EC%B0%A8%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC%20%EA%B5%AC%EC%A1%B0.PNG)
 
-#### Dispatcher-Servlet(디스패처 서블릿)의 장점
+### Dispatcher-Servlet의 장점
 
 Spring MVC는 Dispatcher-Servlet이 등장함에 따라 web.xml의 역할을 상당히 축소시켜주었다.
 
@@ -26,10 +26,10 @@ Spring MVC는 Dispatcher-Servlet이 등장함에 따라 web.xml의 역할을 상
 
 
 
-#### Dispatcher-Servlet의 동작 방식
+### Dispatcher-Servlet의 동작 방식
 
 Dispatcher-Servlet의 처리 과정을 살펴보면 다음과 같다.
 
-![image-20220616165148298](C:\Users\leeje\AppData\Roaming\Typora\typora-user-images\image-20220616165148298.png)
+![img](https://blog.kakaocdn.net/dn/Y5nZW/btrsHGTIP02/O3ff3AhmLzkCkknoImVTK0/img.png)
 
-![image-20220616165254166](C:\Users\leeje\AppData\Roaming\Typora\typora-user-images\image-20220616165254166.png)
+![img](https://blog.kakaocdn.net/dn/oN96r/btrw7SYEpgr/lKLp5nqEZUJR32GoPc9bwk/img.png)
