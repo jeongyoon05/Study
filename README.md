@@ -7,6 +7,7 @@
 - [소켓(Socket)](https://github.com/jeongyoon05/Study/blob/main/Internet/%EC%86%8C%EC%BC%93(Socket).md) 
 
 #### Architecture
+- [MSA](https://github.com/jeongyoon05/Study/blob/main/Architecture/MSA.md) 
 
 #### 객체지향
 - [SOLID](https://github.com/jeongyoon05/Study/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5/SOLID.md)
