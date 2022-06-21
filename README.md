@@ -31,6 +31,7 @@
 - [querydsl](https://github.com/jeongyoon05/Study/tree/main/Spring/querydsl)
 - [비동기처리](https://github.com/jeongyoon05/Study/tree/main/Spring/%EB%B9%84%EB%8F%99%EA%B8%B0%EC%B2%98%EB%A6%AC)
 - [Dispatcher-Servlet](https://github.com/jeongyoon05/Study/tree/main/Spring/Dispatcher-Servlet.md)
+- [영속성 컨텍스트](https://github.com/jeongyoon05/Study/blob/main/Spring/%EC%98%81%EC%86%8D%EC%84%B1%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)
 
 #### Database
 - [sql 문법 정리](https://github.com/jeongyoon05/Study/blob/main/Database/SQL%20%EB%AC%B8%EB%B2%95%20%EC%A0%95%EB%A6%AC.md)
