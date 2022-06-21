@@ -6,6 +6,8 @@
 #### Internet
 - [소켓(Socket)](https://github.com/jeongyoon05/Study/blob/main/Internet/%EC%86%8C%EC%BC%93(Socket).md) 
 
+#### Architecture
+
 #### 객체지향
 - [SOLID](https://github.com/jeongyoon05/Study/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5/SOLID.md)
 - [다형성](https://github.com/jeongyoon05/Study/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5/%EB%8B%A4%ED%98%95%EC%84%B1.md)
