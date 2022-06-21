@@ -1,6 +1,5 @@
 # Chapter
 - [Development](#Development)
-- [Data Structure](#Data-Structure)
 
 ## Development
 
@@ -33,16 +32,3 @@
 
 #### Database
 - [sql 문법 정리](https://github.com/jeongyoon05/Study/blob/main/Database/SQL%20%EB%AC%B8%EB%B2%95%20%EC%A0%95%EB%A6%AC.md)
-
-## Data Structure
-
-#### 단순구조
-- [정수](https://github.com/jeongyoon05/Study/tree/main/data-structure/src/simple/integer)
-- [실수](https://github.com/jeongyoon05/Study/tree/main/data-structure/src/simple/realNumber)
-- [문자](https://github.com/jeongyoon05/Study/tree/main/data-structure/src/simple/character)
-- [문자열](https://github.com/jeongyoon05/Study/tree/main/data-structure/src/simple/string)
-#### 선형구조
-- [스택](https://github.com/jeongyoon05/Study/tree/main/data-structure/src/linear/stack)
-- [큐](https://github.com/jeongyoon05/Study/tree/main/data-structure/src/linear/queue)
-#### 비선형구조
-#### 파일구조
